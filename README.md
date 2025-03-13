@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Md. [Arif Hossen]
+# Hi there! 👋 I'm Md. Arif Hossen
 ## 🚀 About Me
-I'm a **professional web application developer** specializing in **PHP Laravel, HTML, CSS, and Bootstrap**. I have been working with the **Laravel framework since 2020**, building dynamic and efficient web applications.
+I'm a **professional web application developer** specializing in **PHP Laravel, HTML, CSS, and Bootstrap**. I have been working with the **Laravel framework since 2020**, building dynamic and efficient web applications. A **proactive and results-driven Software Developer** with proven experience in building dynamic web applications using **Laravel, JavaScript, and MySQL**. Adept at both frontend and backend development, I specialize in delivering **efficient, scalable solutions** that meet business needs. Eager to contribute my skills to a forward-thinking team and continue growing in a fast-paced environment.
 
 ### 💼 Professional Experience
 - **Project Lead & Senior Developer at QBit Tech** (Since 2023)
@@ -16,6 +16,13 @@ I'm a **professional web application developer** specializing in **PHP Laravel, 
 
 ### 📌 Notable Projects
 - **eCommerce Solutions** 🛒
+  - **Kohen Ecommerce**
+  - **Watch Note BD**
+  - **Goose Glasses**
+  - **Shoping BD**
+  - **Glass Cart**
+  - **Organiv Valley**
+  - **AtripZ**
 - **Rental Management System** 🏠
 - **Fund Management System** 💰
 - **Inventory Management System** 📦
@@ -33,4 +40,3 @@ I'm a **professional web application developer** specializing in **PHP Laravel, 
 
 ---
 📌 *Passionate about crafting scalable, efficient web applications and always eager to learn new technologies!* 🚀
-

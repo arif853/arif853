@@ -28,7 +28,7 @@ I'm a **professional web application developer** specializing in **PHP Laravel, 
 
 ### 📫 Let's Connect!
 - **GitHub:** [arif853](https://github.com/arif853)
-- **LinkedIn:** [arif-hossen853](www.linkedin.com/in/arif-hossen853)
+- **LinkedIn:** [arif-hossen853](https://www.linkedin.com/in/arif-hossen853)
 - **Email:** [arifhossen853@gmail.com](mailto:arifhossen853@gmail.com)
 
 ---

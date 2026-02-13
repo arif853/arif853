@@ -14,8 +14,8 @@ I'm a **professional web application developer** specializing in **PHP Laravel, 
 - **Server Administration:** Windows Server 2016, RedHat, Ubuntu
 - **Project Management:** Agile, Scrum
 
-### 📌 Notable Projects
-- **eCommerce Solutions** 🛒
+### Notable Projects
+- **eCommerce Solutions** 
   - **Kohen Ecommerce**
   - **Watch Note BD**
   - **Goose Glasses**
@@ -23,10 +23,12 @@ I'm a **professional web application developer** specializing in **PHP Laravel, 
   - **Glass Cart**
   - **Organiv Valley**
   - **AtripZ**
-- **Rental Management System** 🏠
-- **Fund Management System** 💰
-- **Inventory Management System** 📦
-- **HRM & Accounting Systems** 🏢
+- **Rental Management System** 
+- **Fund Management System** 
+- **Inventory Management System** 
+- **HRM & Accounting Systems**
+- **Accounting Management**
+- **Restaurant Management**
 - **Portfolio Websites:** [Akhleque Charity](#), [IEETBD](#), [Ra'dia Inc](#), [Traveltix BD](#), [Sheltech Homes Inc](#), and more!
 
 ### 🎓 Education
